@@ -1,5 +1,3 @@
-#!/bin/bash \nechofile
-#!/bin/bash \nechofile \n
 #!/bin/bash 
  pwd 
 
