@@ -1,2 +1,3 @@
 #!/bin/bash
 chown hello betty
+#!/bin/bash/nchown hello betty
